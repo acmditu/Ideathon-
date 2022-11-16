@@ -166,3 +166,8 @@ button{
         font-size: 1.8rem;
     }
 }
+Button{
+    color:"white";
+     background-color:"purple";
+         border-radius:10px;
+}
